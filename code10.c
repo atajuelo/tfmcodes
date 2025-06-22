@@ -5,7 +5,7 @@
 
 #define P 200       // Tamaño de cada muestra
 #define H 1000000   // Número de repeticiones
-#define s -0.024*P    // Sesgo exponencial
+#define s -0.24*P    // Sesgo exponencial
 
 // Función para generar números aleatorios con distribución exponencial
 double exponential_random(double mu) {
